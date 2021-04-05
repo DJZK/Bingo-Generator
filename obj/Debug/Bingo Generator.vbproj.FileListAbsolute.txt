@@ -1,0 +1,12 @@
+D:\My Documents\Visual Studio 2015\Projects\Bingo Generator\obj\Debug\Bingo_Generator.MainForm.resources
+D:\My Documents\Visual Studio 2015\Projects\Bingo Generator\obj\Debug\Bingo_Generator.Resources.resources
+D:\My Documents\Visual Studio 2015\Projects\Bingo Generator\obj\Debug\Bingo Generator.vbproj.GenerateResource.cache
+D:\My Documents\Visual Studio 2015\Projects\Bingo Generator\bin\Debug\Bingo Generator.exe.config
+D:\My Documents\Visual Studio 2015\Projects\Bingo Generator\bin\Debug\Bingo Generator.exe
+D:\My Documents\Visual Studio 2015\Projects\Bingo Generator\bin\Debug\Bingo Generator.pdb
+D:\My Documents\Visual Studio 2015\Projects\Bingo Generator\bin\Debug\Bingo Generator.xml
+D:\My Documents\Visual Studio 2015\Projects\Bingo Generator\obj\Debug\Bingo Generator.exe
+D:\My Documents\Visual Studio 2015\Projects\Bingo Generator\obj\Debug\Bingo Generator.xml
+D:\My Documents\Visual Studio 2015\Projects\Bingo Generator\obj\Debug\Bingo Generator.pdb
+D:\My Documents\Visual Studio 2015\Projects\Bingo Generator\obj\Debug\Bingo Generator.vbprojAssemblyReference.cache
+D:\My Documents\Visual Studio 2015\Projects\Bingo Generator\obj\Debug\Bingo_Generator.SplashScreen.resources
